@@ -70,7 +70,7 @@ function countDigits(num){
     return len;
 }
 
-function print(){
+function printResults(){
     console.log("getSum: " + getSum(5, 6));
     console.log("greeting: " + greeting("Pavel", "Pertsev", 18));
     console.log("getMin: " + getMin(5, 9, 2));
